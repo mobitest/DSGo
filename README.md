@@ -4,3 +4,12 @@
 本App用于在不支持Leanback的Android电视或盒子上，提供群晖TV版DS Photo和DS Video的应用入口。
 
 PS：仅实测于小米盒子4国行版
+
+
+## 2023-01-01
+小米投影仪（安卓9）上实测可用。
+
+ds photo已经被synology photos所替换。
+synology photos tv版本核心信息
+- 包名：com.synology.projectkailash
+- 应用入口：com.synology.projectkailash.ui.login.LoginActivity
