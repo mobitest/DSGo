@@ -18,7 +18,7 @@ import android.widget.Toast;
 import java.util.List;
 
 public class MainActivity extends Activity {
-    private final String pkgOfDSPhoto = "com.synology.dsphoto", clsOfDSPhoto = "com.synology.dsphoto.ui.welcome.WelcomeActivity";
+    private final String pkgOfDSPhoto = "com.synology.projectkailash", clsOfDSPhoto = "com.synology.projectkailash.ui.login.LoginActivity";
     private final String pkgOfDSVideo = "com.synology.dsvideo", clsOfDSVideo = "com.synology.dsvideo.ui.WelcomeActivity";
     private boolean hasDSPhoto, hasDSVideo;
     private Drawable drawableOfDSPhoto, drawableOfDSVideo;
